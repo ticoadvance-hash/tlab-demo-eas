@@ -2,22 +2,23 @@
 
 Colección oficial de Expert Advisors experimentales creados con **T-Lab** para MetaTrader 5.
 
-Los paquetes publicados en [Releases](../../releases) funcionan exclusivamente en cuentas **DEMO** y en el **Strategy Tester**. No están autorizados para operar cuentas reales.
+Los paquetes publicados en la carpeta [downloads](downloads/) funcionan exclusivamente en cuentas **DEMO** y en el **Strategy Tester**. No están autorizados para operar cuentas reales.
 
 ## Catálogo
 
-La colección inicial está formada por 10 candidatos seleccionados del Banco de Estrategias IA que no pertenecen a ningún portfolio. Seis cuentan con IS, OOS y prueba MAIN; cuatro se publican como candidatos experimentales con MAIN, pero sin OOS operativo registrado.
+La colección inicial está formada por 10 candidatos seleccionados del Banco de Estrategias IA que no pertenecen a ningún portfolio. Cinco cuentan con IS, OOS y prueba MAIN; cinco se publican como candidatos experimentales con MAIN, pero sin OOS operativo registrado.
 
 Consulta [el catálogo y sus métricas](docs/CATALOGO.md) antes de descargar.
 
 ## Contenido de cada ZIP
 
 - EA compilado `.ex5` en modo **x64 Regular**
-- modelos ONNX requeridos
+- modelos ONNX de Consejero, Entradas y Cierres
 - `manifest.json`
-- instalador para Windows
-- instrucciones en español e inglés
-- checksum SHA-256
+- instalador automático para Windows
+- instrucciones en español
+- ficha técnica individual
+- comprobaciones SHA-256
 
 ## Documentación
 
