@@ -10,9 +10,9 @@
 
 ## Advertencia sobre el OOS actual
 
-En seis candidatos, el OOS está activo pero cubre 2016-01-01 a 2026-09-10, mientras el IS cubre 2016-01-01 a 2026-09-07. Los periodos se superponen y, por ello, este OOS no es un holdout cronológico independiente.
+En cinco candidatos, el OOS está activo pero cubre 2016-01-01 a 2026-09-10, mientras el IS comienza en 2016 y termina cerca de esa misma fecha. Los periodos se superponen y, por ello, este OOS no es un holdout cronológico independiente.
 
-En cuatro candidatos, OOS estaba desactivado. Estos se identifican como **experimental · sin OOS operativo**.
+En cinco candidatos, OOS estaba desactivado. Estos se identifican como **experimental · sin OOS operativo**.
 
 ## Métricas
 
